@@ -16,3 +16,7 @@ NOTE: Music will play in fivem, if you open index.html with any browser, music w
 In this version, i added random video and music play
 
 در این نسخه، من حالت اجرای تصادفی آهنگ و ویدیو رو اضافه کردم
+
+NOTE: Video and music are URL, you and add your URL in index.html
+
+نکته: ویدیو و آهنگ به شکل لینک هستند، شما میتوانید لینک‌های خود را به index.html اضافه کنید
